@@ -2,3 +2,6 @@ clickhouse
 redis
 jitsu
 postgres
+sqlpad
+cube
+metabase
