@@ -2,9 +2,9 @@
 1. Run `git clone https://github.com/hackstrap/antimatter.git`
 2. Run `cd antimatter`
 3. Run `git checkout backend`
-4. Run `docker compose up`
+4. Run `docker compose up -d`
 
-> **Note:** Substitute `docker compose up` with `docker-compose up` in case the `docker compose` is not a recognized command.
+> **Note:** Substitute `docker compose up` with `docker-compose up -d` in case the `docker compose -d` is not a recognized command.
 
 # 🔗 Links
 - <a target="_blank" rel="noopener" href="http://localhost:8123/play">Clickhouse</a>
