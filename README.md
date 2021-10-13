@@ -9,7 +9,7 @@
 # 🔗 Links
 - <a target="_blank" rel="noopener" href="http://localhost:8123/play">Clickhouse</a>
 - <a target="_blank" rel="noopener" href="http://localhost:8000/configurator">Jitsu</a>
-- <a target="_blank" rel="noopener" href="http://localhost:3000">SQLPad</a>
+- <a target="_blank" rel="noopener" href="http://localhost:3002">SQLPad</a>
 - <a target="_blank" rel="noopener" href="http://localhost:4000/#/connection">Cube.js</a>
 - <a target="_blank" rel="noopener" href="http://localhost:8080/ui/login.html">Trino</a>
 - <a target="_blank" rel="noopener" href="http://localhost:3001/">Metabase</a>
