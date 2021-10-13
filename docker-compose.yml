@@ -95,7 +95,7 @@ services:
         container_name: sqlpad
         restart: always
         ports:
-            - 3000:3000
+            - 3002:3000
         volumes:
             - ./sqlpad:/var/lib/sqlpad
         environment:
